@@ -39,15 +39,15 @@ Each role has a formula-based scoring system that weighs specific skills accordi
 
 ### HR/Recruiter Role Formula
 
-\[
-\text{HR/Recruiter Score} = (0.35 \times \text{Communication}) + (0.30 \times \text{Empathy and Emotional Intelligence}) + (0.15 \times \text{Collaboration and Teamwork}) + (0.10 \times \text{Leadership Potential}) + (0.10 \times \text{Problem-Solving and Initiative})
-\]
+```
+HR/Recruiter Score = (0.35 * Communication) + (0.30 * Empathy and Emotional Intelligence) + (0.15 * Collaboration and Teamwork) + (0.10 * Leadership Potential) + (0.10 * Problem-Solving and Initiative)
+```
 
 ### Engineering Role Formula
 
-\[
-\text{Engineering Score} = (0.30 \times \text{Problem-Solving and Initiative}) + (0.20 \times \text{Communication}) + (0.20 \times \text{Collaboration and Teamwork}) + (0.10 \times \text{Adaptability}) + (0.10 \times \text{Leadership Potential}) + (0.10 \times \text{Emotional Intelligence})
-\]
+```
+Engineering Score = (0.30 * Problem-Solving and Initiative) + (0.20 * Communication) + (0.20 * Collaboration and Teamwork) + (0.10 * Adaptability) + (0.10 * Leadership Potential) + (0.10 * Emotional Intelligence)
+```
 
 ## Usage
 
